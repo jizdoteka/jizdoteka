@@ -1,0 +1,8 @@
+app/config/config.local.neon
+log/*
+temp/*
+vendor/*
+!.gitignore
+!.htaccess
+!web.config
+composer.phar
